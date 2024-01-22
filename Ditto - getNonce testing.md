@@ -25,7 +25,7 @@
 
 - Versus Juno : 
 	
-		-fail_non_existing_block : ✅ (⛔️ be careful, for block 0 Juno return a                          Contract not found, which is normal because of Juno implem)
+		-fail_non_existing_block : ✅ (⛔️ be careful, for block 0 Juno return a Contract not found, which is normal because of Juno implem)
 		-fail_non_existing_contract : ✅
 		-work_erc721_contract : ✅
 		-work_erc20_contract : ✅
